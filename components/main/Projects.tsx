@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="https://raw.githubusercontent.com/xsannz666/DISASTER-V2/main/serti1.png"
+          src="/NextWebsite.png"
           title="Coming Soon"
           description="Coming Soon Next Projects"
         />
@@ -22,7 +22,7 @@ const Projects = () => {
           description="clothing brand website, this is my first project created with HTML CSS for consumers and admins who can buy and sell."
         />
         <ProjectCard
-          src="https://raw.githubusercontent.com/xsannz666/DISASTER-V2/main/serti2.png"
+          src="/SpaceWebsite.png"
           title="Coming Soon"
           description="Coming Soon Next Projects"
         />
