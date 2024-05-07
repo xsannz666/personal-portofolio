@@ -63,8 +63,8 @@ const HeroContent = () => {
         <Image
           src="/fotoprofil.jpeg"
           alt="work icons"
-          height={650}
-          width={650}
+          height={400}
+          width={500}
         />
       </motion.div>
     </motion.div>
