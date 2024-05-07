@@ -12,9 +12,9 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Coming Soon"
-          description="Coming Soon Next Projects"
+          src="/proj2.png"
+          title="E-Commerce ui app"
+          description=""
         />
         <ProjectCard
           src="/CardImage.png"
@@ -22,9 +22,24 @@ const Projects = () => {
           description="clothing brand website, this is my first project created with HTML CSS for consumers and admins who can buy and sell."
         />
         <ProjectCard
+          src="/Proj3.png"
+          title="Hotel Booking App"
+          description=""
+        />
+        <ProjectCard
+          src="/NextWebsite.png"
+          title="CERTIFICATE"
+          description=""
+        />
+                <ProjectCard
           src="/SpaceWebsite.png"
-          title="Coming Soon"
-          description="Coming Soon Next Projects"
+          title="CERTIFICATE"
+          description=""
+        />
+                <ProjectCard
+          src="/Serti2.png"
+          title="CERTIFICATE"
+          description=""
         />
       </div>
     </div>
