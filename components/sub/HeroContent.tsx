@@ -45,14 +45,14 @@ const HeroContent = () => {
         <motion.p
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
-        >
-         &apos;Saya tertarik pada penelitian, Front end, pemrograman, dan aktivitas desain untuk membangun aplikasi yang menarik secara visual dengan interaksi yang ramah pengguna.
+        >&apos;Saya seorang mahasiswa dari Sekolah Tinggi Teknologi Indonesia Tanjung Pinang yang bersemangat di bidang Teknik Informatika. Dengan latar belakang yang kuat dalam pengembangan perangkat lunak, pemrosesan data, dan desain sistem, saya telah mengeksplorasi berbagai aspek teknologi informasi dengan penuh antusiasme dan dedikasi.
+        Portofolio ini adalah cerminan dari perjalanan saya dalam menjelajahi kompleksitas dunia digital. Di sini, Anda akan menemukan rangkaian proyek-proyek yang saya kerjakan, yang mencerminkan kemampuan dan minat saya dalam berbagai bidang Teknik Informatika.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Learn More!
+          Terima Kasih Telah Mengunjungi Portofolio Saya
         </motion.a>
       </div>
 
