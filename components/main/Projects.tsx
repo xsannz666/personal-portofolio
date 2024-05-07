@@ -22,11 +22,11 @@ const Projects = () => {
           description="clothing brand website, this is my first project created with HTML CSS for consumers and admins who can buy and sell."
         />
         <ProjectCard
-          src="/Proj3.png"
+          src="/proj3.png"
           title="Hotel Booking App"
           description=""
         />
-        <ProjectCard
+        {/* <ProjectCard
           src="/NextWebsite.png"
           title="CERTIFICATE"
           description=""
@@ -40,7 +40,7 @@ const Projects = () => {
           src="/Serti2.png"
           title="CERTIFICATE"
           description=""
-        />
+        /> */}
       </div>
     </div>
   );
